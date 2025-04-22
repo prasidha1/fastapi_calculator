@@ -1,1 +1,1 @@
-# fastapi_calculator
+This is a simple calculator web app built using **FastAPI** as the backend and **Streamlit** as the frontend. It allows users to perform basic arithmetic operations: add, subtract, multiply, and divide.
